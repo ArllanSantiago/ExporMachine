@@ -1,0 +1,73 @@
+{
+    "automakers":[
+        {   "id":1
+            ,"name":"Ford"
+            ,"describe":"Montadora Americana - Fabricação Internacional"
+            ,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM30YDUOHxrO0eLI5fNotmjHtL7_bd47nH4A&usqp=CAU"
+            ,"products":[
+                {
+                    "id":1
+                    ,"name":"Fiesta Sedan"
+                    ,"describe":"O incentivo ao avanço tecnológico, assim como a complexidade dos estudos efetuados causa impacto indireto na reavaliação da gestão inovadora da qual fazemos parte."
+                    ,"img":"https://media.gazetadopovo.com.br/2020/01/17155825/lamborghini-huracan-Alexander-Migl-wikimedia-commons.jpg"
+                    ,"price":"49.000"
+                    ,"status":"novo"
+                }
+                ,{
+                    "id":2
+                    ,"name":"Fusion"
+                    ,"describe":"Carro Luxo"
+                    ,"img":"https://media.gazetadopovo.com.br/2020/01/17155825/lamborghini-huracan-Alexander-Migl-wikimedia-commons.jpg"
+                    ,"price":"149.000"
+                    ,"status":"novo"
+                }
+            ]
+        }
+        ,{   "id":2
+            ,"name":"Chevrolet"
+            ,"describe":"Montadora Americana - Fabricação Nacional"
+            ,"img":"data:image/jpeg;base64,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DJOGpvm0g1JqE8zRc7a74GnGp4Kt2sdyT1FbDG8x6l88fFp7j+HXn2nw592iIv35+fFszxyzUDoiP9/d2bN0v9F1bCsjYgV+mr7j+DnW2c5ovREUON62OcJCV2GwEEGhruVh5jifeoksJXYe+e7fVdDYLQ0OM3AUzMswrRlrh+0b8QWZ+Jw5nMrHyLR0iIcezRETDxzj0sYccclJ2g4h46LngxmdDlmu1bboXtGfGEfpGH7RnxBY+h4S/VW2j9nz60eCkV5aTHiODTMB8MEYXciMjJdto+wg2VkN0r7A6YnOU3OP/rmIISLbofLb8QWi623HX2OE5zIntUlPplTnAAODS3vw+DWnZi/Em3dc+DFn8W2M3/On1woSu1VaEjiIIj2ghrng1BHFQwZTFRMET5t81arowL1EQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERB/9k="
+            ,"products":[
+                {
+                    "id":1
+                    ,"name":"Onix Sedan"
+                    ,"describe":"Carro Pop"
+                    ,"img":""
+                    ,"price":"99.000"
+                    ,"status":"novo"
+                }
+                ,{
+                    "id":2
+                    ,"name":"Track"
+                    ,"describe":"Carro Luxo"
+                    ,"img":""
+                    ,"price":"148.000"
+                    ,"status":"novo"
+                }
+            ]
+        }
+        ,{   "id":3
+            ,"name":"Fiat"
+            ,"describe":"Montadora Italiana - Fabricação Nacional       ."
+            ,"img":"https://logodownload.org/wp-content/uploads/2014/05/fiat-logo-21.png"
+            ,"products":[
+                {
+                    "id":1
+                    ,"name":"Argo Sedan"
+                    ,"describe":"Carro Pop"
+                    ,"img":""
+                    ,"price":"89.000"
+                    ,"status":"novo"
+                }
+                ,{
+                    "id":2
+                    ,"name":"Toro"
+                    ,"describe":"Carro Luxo"
+                    ,"img":""
+                    ,"price":"158.000"
+                    ,"status":"novo"
+                }
+            ]
+        }
+    ]
+}
